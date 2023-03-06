@@ -81,13 +81,13 @@ user_pref("userChrome.rounding.square_tab",            true);
 // user_pref("userChrome.autohide.tab.blur",                   true);
 // user_pref("userChrome.autohide.tabbar",                     true);
 // user_pref("userChrome.autohide.navbar",                     true);
-// user_pref("userChrome.autohide.bookmarkbar",                true);
+user_pref("userChrome.autohide.bookmarkbar",                true);
 // user_pref("userChrome.autohide.sidebar",                    true);
 // user_pref("userChrome.autohide.fill_urlbar",                true);
 // user_pref("userChrome.autohide.back_button",                true);
 // user_pref("userChrome.autohide.forward_button",             true);
 // user_pref("userChrome.autohide.page_action",                true);
-// user_pref("userChrome.autohide.toolbar_overlap",            true);
+user_pref("userChrome.autohide.toolbar_overlap",            true);
 // user_pref("userChrome.autohide.toolbar_overlap.allow_layout_shift", true);
 
 // user_pref("userChrome.hidden.tab_icon",                     true);

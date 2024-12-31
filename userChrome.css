@@ -12,7 +12,6 @@
 */
 
 /* Disable Email Image/Audio/Video and Set as Desktop Background context menu items */
-/*
 #context-sendimage,
 #context-sendvideo,
 #context-sendaudio,
@@ -20,4 +19,8 @@
 #context-setDesktopBackground {
   display: none !important;
 }
-*/
+
+/* Remove label in private browsing indicator */
+.private-browsing-indicator-label{
+  display: none;
+}
